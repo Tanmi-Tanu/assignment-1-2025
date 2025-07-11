@@ -96,3 +96,26 @@ body{
     font-size: 20px;
     color: rgba(0, 0, 0, 0.5);
 }
+/*Main area Form Section 3*/
+.form-section{
+    margin: 100px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+form .basic-info label{
+    display: block;
+    margin-top: 15px;
+}
+form .basic-info input{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+.basic-info textarea{
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
